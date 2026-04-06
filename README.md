@@ -13,6 +13,12 @@ FanAlbum은 순수 HTML 단일 파일로 동작하는 팬앨범 웹앱이에요.
 
 ---
 
+## 바로 사용하기
+
+👉 **[FanAlbum 열기](https://hiation33-arch.github.io/fanalbum-)**
+
+---
+
 ## 시작하기
 
 `index.html` 파일을 브라우저로 열면 바로 사용할 수 있어요.  
